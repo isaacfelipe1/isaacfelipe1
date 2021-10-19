@@ -1,4 +1,4 @@
-## Oii! Eu sou o Isaac Felipe 
+## Oii! Eu sou o Isaac Felipe :) 
  <div>
   <a href="https://github.com/isaacfelipe1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
