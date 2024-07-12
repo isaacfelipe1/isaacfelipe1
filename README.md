@@ -15,7 +15,7 @@
   
 </div>
 
-## contact me
+## Contact me
 
 <div> 
   
