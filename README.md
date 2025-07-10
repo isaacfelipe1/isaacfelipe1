@@ -1,4 +1,4 @@
-## Olá! Bem vindo, sou  Isaac Felipe dos Santos Lima
+## Olá! Bem vindo, sou  Isaac Felipe dos Santos Lima.
  <div>
   <a href="https://github.com/isaacfelipe1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
