@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/isaacfelipe1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true&cache_id=1" alt="Estatísticas do GitHub" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula&cache_id=1" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -59,10 +59,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-### 🐍 Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/isaacfelipe1/isaacfelipe1/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
