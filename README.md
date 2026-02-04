@@ -1,18 +1,18 @@
 <h1 align="center">👋 Olá! Bem vindo, sou Isaac Felipe dos Santos Lima</h1>
 
 <p align="center">
-  Desenvolvedor Back-end .NET/C# </br>
-Sou um Desenvolvedor dedicado, orientado por Resultados.
+  Desenvolvedor Back-end .NET/C# <br>
+  Sou um Desenvolvedor dedicado, orientado por resultados.
 </p>
 
 ---
-<<div align="center">
+
+<div align="center">
   <a href="https://github.com/isaacfelipe1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
   </a>
 </div>
-
 
 ---
 
@@ -26,23 +26,23 @@ Sou um Desenvolvedor dedicado, orientado por Resultados.
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" width="40"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="40"/>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" width="50"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="40" width="40"/>
       </td>
     </tr>
   </table>
@@ -60,7 +60,7 @@ Sou um Desenvolvedor dedicado, orientado por Resultados.
   </a>
 </p>
 
---
+---
 
 ### 🐍 Contribuições
 <div align="center">
