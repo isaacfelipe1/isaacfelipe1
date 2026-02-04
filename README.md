@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/isaacfelipe1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true&cache_id=1" alt="Estatísticas do GitHub" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula&cache_id=1" alt="Linguagens mais usadas" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
   </a>
 </div>
 
