@@ -7,8 +7,6 @@
 
 ---
 
----
-
 ### 🛠️ My Skill Set
 <div align="center">
   <table>
