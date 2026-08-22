@@ -6,10 +6,6 @@
 </p>
 
 ---
-<div align="center">
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=isaacfelipe1&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/isaacfelipe1)
-  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfelipe1&layout=compact&langs_count=7&theme=dracula)](https://github.com/isaacfelipe1)
-</div>
 
 ---
 
